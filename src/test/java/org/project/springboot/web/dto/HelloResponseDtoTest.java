@@ -1,4 +1,4 @@
-package org.project.springboot.boot.web.dto;
+package org.project.springboot.web.dto;
 
 import org.junit.Test;
 

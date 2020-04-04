@@ -1,6 +1,6 @@
-package org.project.springboot.boot.web;
+package org.project.springboot.web;
 
-import org.project.springboot.boot.web.dto.HelloResponseDto;
+import org.project.springboot.web.dto.HelloResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
